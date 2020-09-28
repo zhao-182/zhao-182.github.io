@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+个人情况简介
 
-You can use the [editor on GitHub](https://github.com/zhao-182/zhao-182.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+个人资料：
 
-### Markdown
+真实姓名：赵欣卉
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+性别：女
+年龄：21
 
-```markdown
-Syntax highlighted code block
+籍贯：河北省邢台市沙河市
 
-# Header 1
-## Header 2
-### Header 3
+所在学校及学院：石家庄铁道大学信息科学与技术学院
 
-- Bulleted
-- List
+班级及专业：信1705-1 软件工程
 
-1. Numbered
-2. List
+GItHUB个人主页地址：hhttps://github.com/zhao-182/zhao-182.github.io
+ 
+ 
+一、实习目的
+1、实习的目的就是将自己所学的理论知识运用在实践中，在实践中巩固自己的所学的知识，补充自己的不足，总结相关的经验，以达到学以致用得效果。
+2、实习能够获得和自己专业相关的经验，扩大自己的知识面，积累更多的经验，增加自己的社会阅历。
+二、实习内容
+第一章认识自我
+1、个人基本情况
+   性格有点内向，但是喜欢与志同道合的朋友讨论问题，能够很快的融入到新的集体中。
+2、职业能力及适应性
+   动手能力较强，概括能力较差。有很强的适应能力，肯吃苦。
+3、职业价值观
+   比较看重自己在工作中的吸取的经验，从工作中能学习到的经验是可遇不可求的。
+4、胜任能力
+   优势：思维灵活，善于接受新的知识，工作踏实诚恳。
+   劣势：工作受情绪的影响，情绪差的时候工作的动力比较弱；
+5、自我分析小结
+   现在需要对自己的缺点进行改进，让缺点变少，多发展自己的优势，将来工作的时候可以更好的融入进去。
 
-**Bold** and _Italic_ and `Code` text
+第二章职业生涯条件分析
+1、家庭环境分析
+   家住在河北省邢台市沙河市，父母都是教师，家庭氛围比较好。
+2、学校环境分析
+   就读于石家庄铁道大学软件工程专业，学校属于一流的学校，学校得整体学习氛围良好。
+3、职业生涯条件分析小结
+   软件工程专业整体来说就业形势还不错，但是还是需要努力学好专业知识，这样好的专业加上扎实得技术基础，就业前景就会一片光明。
+第三章职业目标定位及其分解组合
+1.职业目标的确定
+外部环境因素：
+机会因素（O）：
+（1）这个专业在大学生就业中前景良好，工作机会很多
+（2）科技的发展对软件工程行业需求很大
+威胁SWOT分析：
+（1）技术更新的速度快
+内部环境因素：
+优势因素（S）：
+（1）学习新知识的能力强
+（2）综合素质较强
+弱势因素（W）：
+（1）工作一定程度上会受情绪的影响
+2.职业目标的分解和组合
+（1）短期目标（大学期间）：注重职业技能、求职技巧的培养。
+（2）中期目标（大学毕业 -  3年后）：以积累为主，掌握知识，了解自己，养成良好的工作态度和习惯。
+（3）远期目标：（3年后 - 长期）：技术要不断更新，要有广阔的视野。
+第四章具体执行计划
+1.大学期间：2019-2020年
+（1）大学毕业，找到一个满意的工作。
+2.大学毕业到三年：2020-2023年
+（1）养成良好的工作态度和习惯
+3.毕业三年到长期计划：
+（1）技术不断更新
+第五章检查和修订
+1、检查的内容
+（1）职业目标评估：如果一直无法在单位上得到升迁的机会，那么我将考虑跳槽到别的公司进行发展。
+2、检查的时间
+   每隔一段时间进行职业规划的评估，检查与预估是否出现偏差，并及时调整。
+3、规划修订的原则和备选方案
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhao-182/zhao-182.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+三、主要收获与体会
+   任何目标，都应该落实到行动中。既然选择了认准了是正确的，就要一直走下去。定按照目标的规划行动，坚持直到胜利的那一天。
